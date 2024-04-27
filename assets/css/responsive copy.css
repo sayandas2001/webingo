@@ -1,0 +1,82 @@
+
+@media screen and (max-width: 768px) {
+.res-banner-pic{
+  display: block;
+}
+.banner-pic{
+  display: none !important;
+}
+.home-banner .txt-center-left span {
+    font-size: 24px;
+    line-height: normal;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.txt-center-left .text-shodow {
+    font-size: 22px;
+    line-height: normal !important;
+}
+.login-btn,
+.merchant-btn {
+    color: #fff;
+    padding: 8px 20px;
+    font-size: 16px;
+}
+header{
+	padding: 15px 0;
+}
+.grey-section.pt-50.pb-50,
+.white-section.pt-50.pb-50{
+	padding-top: 35px !important;
+	padding-bottom: 35px !important;
+}
+.border-title {
+    font-size: 22px;
+    text-align: center;
+    margin: 0;
+}
+.border-title span:before,
+.border-title span:after {
+    width: 55px;
+}
+.how-work{
+	margin-bottom: 15px;
+}
+.home-banner p,
+.home-banner .merchant-banner-text p {
+    font-size: 22px;
+    line-height: normal !important;
+    margin-bottom: 10px;
+}
+.desktop_nav>nav>ul >li {
+    margin-right: 15px;
+}
+.desktop_nav>nav>ul>li>a{
+	font-size: 14px;
+}
+.semi-title {
+    font-size: 22px;
+}
+.login-wapper{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.login-half {
+    width: 100%;
+    float: left;
+    display: block;
+    height: auto;
+    box-sizing: border-box;
+    position: relative;
+    min-height: 100vh !important;
+}
+.login-block {
+    padding: 25px;
+}
+.login-body {
+    width: 100%;
+}
+}
+
+
+
